@@ -26,7 +26,7 @@ Implementing a multiplayer mode (local or online).
 7. Publish and Share:
 Once you are satisfied with your game, you can package it, sign it, and publish it on the Google Play Store or share it with friends and family.
 
-Remember that this is a basic overview, and creating a full-featured Tic Tac Toe game can be a more involved process. You may want to consult Android game development resources and tutorials for more in-depth guidance on each step.
+
 
 
 
